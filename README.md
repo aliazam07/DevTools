@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # <a href="https://devtoo1s.dev">Online Free DevToo1s.dev</a>
 # DevTools Project
 
@@ -53,4 +53,4 @@ Happy coding! 😊
 
 =======
 # DevTools
->>>>>>> 5384da59c9d091f6d47b0c189ed7f20b16a57d37
+
